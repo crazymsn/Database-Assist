@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Database Assist - Une interface web pour les modèles d'IA locaux + GPT-4o, o3-mini, Claude 3.5, outils d'IA DeepSeek"
+    },
+    "extDescription": {
+        "message": "Utilisez vos modèles d'IA locaux pour vous aider dans votre navigation web."
+    },
+    "openSidePanelToChat": {
+        "message": "Ouvrir Copilot pour discuter"
+    },
+    "contextSummarize": {
+        "message": "Résumer"
+    },
+    "contextExplain": {
+        "message": "Expliquer"
+    },
+    "contextRephrase": {
+        "message": "Reformuler"
+    },
+    "contextTranslate": {
+        "message": "Traduire"
+    },
+    "contextCustom": {
+        "message": "Personnalisé"
+    }
+}
