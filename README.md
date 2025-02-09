@@ -1,5 +1,9 @@
 欢迎关注B站及YouTube频道：周医生的科研馆
 
+Bilibili 安装部署教程：https://www.bilibili.com/video/BV1zXNme6E1F/
+
+YouTube 安装部署教程：https://youtu.be/2oaJ7Xk-aEk?si=imxC6TYIPxqtzA0I
+
 精美导航页：https://nav.meding.vip
 
 API 分发站：https://api.meding.vip
