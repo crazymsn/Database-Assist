@@ -1,6 +1,6 @@
 欢迎关注B站及YouTube频道：周医生的科研馆
 
-全网最强大的 Database Assit AI 应用插件来啦，保姆级超简易部署教程！无缝接入本地Ollama模型、云端API模型及RAG知识库构建。Database Asssit支持一键接入API 分发站内所有模型！
+全网最强大的 Database Assit AI 应用插件来啦，保姆级超简易部署教程！无缝接入本地Ollama模型、云端API模型及RAG知识库构建。Database Assit支持一键接入API 分发站内所有模型！
 
 Bilibili 安装部署教程：https://www.bilibili.com/video/BV1zXNme6E1F/
 
